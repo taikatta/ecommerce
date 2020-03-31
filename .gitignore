@@ -1,2 +1,8 @@
-*.sqlite3
 __pycache__/
+.DS_Store
+*.sqlite3
+*.pyc
+env.py
+*.png
+static/
+media/
