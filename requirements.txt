@@ -9,7 +9,7 @@ Django==4.2.22
 django-forms-bootstrap==3.1.0
 django-storages==1.9.1
 docutils==0.15.2
-gunicorn==22.0.0
+gunicorn==23.0.0
 idna==3.7
 jmespath==0.9.5
 Pillow==10.3.0
